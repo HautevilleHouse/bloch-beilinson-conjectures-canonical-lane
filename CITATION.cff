@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "The Bloch-Beilinson Conjectures via Motivic-Filtration Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-11
+repository-code: "https://github.com/HautevilleHouse/bloch-beilinson-conjectures-canonical-lane"
+url: "https://github.com/HautevilleHouse/bloch-beilinson-conjectures-canonical-lane"
+keywords:
+  - bloch-beilinson-conjectures
+  - motives
+  - algebraic-cycles
+  - regulators
+  - cohomology
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "The Bloch-Beilinson Conjectures via Motivic-Filtration Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-11

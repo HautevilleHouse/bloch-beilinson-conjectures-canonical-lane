@@ -1,0 +1,78 @@
+{
+  "all_pass": true,
+  "all_pass_normalized": true,
+  "blockers": {
+    "BB_G1": [],
+    "BB_G2": [],
+    "BB_G3": [],
+    "BB_G4": [],
+    "BB_G5": [],
+    "BB_G6": [],
+    "BB_GM": []
+  },
+  "derived": {
+    "strict_coh_zero": true,
+    "strict_margin": 0.8038585209003215
+  },
+  "gates": {
+    "BB_G1": "PASS",
+    "BB_G2": "PASS",
+    "BB_G3": "PASS",
+    "BB_G4": "PASS",
+    "BB_G5": "PASS",
+    "BB_G6": "PASS",
+    "BB_GM": "PASS"
+  },
+  "inputs": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8038585209003215,
+    "kappa_filtration": 1.095567,
+    "motivic_transfer": 1.0305400000000002,
+    "rho_rigidity": 1.078,
+    "sigma_regulator": 1.075,
+    "sigma_star_can": 1.054
+  },
+  "lane": {
+    "active_lane": "manifold_constrained",
+    "canonical_theorem_lane": "manifold_constrained"
+  },
+  "meta": {
+    "computed_at_utc": "2026-05-09T22:38:44+00:00",
+    "framework": "bloch_beilinson_conjectures"
+  },
+  "normalized": {
+    "blockers": {
+      "G1": [],
+      "G2": [],
+      "G3": [],
+      "G4": [],
+      "G5": [],
+      "G6": [],
+      "GCoh": [],
+      "GM": []
+    },
+    "gates": {
+      "G1": "PASS",
+      "G2": "PASS",
+      "G3": "PASS",
+      "G4": "PASS",
+      "G5": "PASS",
+      "G6": "NA",
+      "GCoh": "PASS",
+      "GM": "PASS"
+    }
+  },
+  "schema": {
+    "g6_policy": "NA means this framework has no standalone pre-coherence G6 gate",
+    "normalized_gate_keys": [
+      "G1",
+      "G2",
+      "G3",
+      "G4",
+      "G5",
+      "G6",
+      "GCoh",
+      "GM"
+    ]
+  }
+}
