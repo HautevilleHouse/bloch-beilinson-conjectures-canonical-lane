@@ -7,7 +7,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "4bec16d0c308cd015c9f19d4a215f4fc08ce73707c89a30a18474b7508036825"
+      "sha256": "ef66a37936b2a1f64c8de910be4fb26f1bfa85703029cc8e9490b9caad24d79d"
     },
     {
       "path": "artifacts/constants_extracted.json",
@@ -31,27 +31,27 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "0944a2fef85b5b857710f9f0bfcbc5a9b2f76f4f7a6aacbc669aaa8581ab649e"
+      "sha256": "1dd30c46e7f2e5e0a031dff4f04e99a93a24dd0e0af87cc660796e36e9b2fd2d"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "0d33610eb1817383cf20f6f199159256fde3bf06e564f5bb2fc3485308e8a31b"
+      "sha256": "d8f6b0129de7db9069ceb192afd4cd5041f70e54e923a7c6a95e6a047463970d"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "bf4992e0223a1728a7c51347119583f10ca0dabb9867288ba5190e9c1ae8ae58"
+      "sha256": "7cad24fe44ade973b4f045a5a1222661a77d6e4f1c1e64f912ba327b217007b6"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "031fcf45d44345214af4224859eb4f22136960ef26272aaa1916eb6770f3c531"
+      "sha256": "2121718c2dcc70abeb3630fd7d5e6019ac954a0e96494898555ba20fa1a22ba9"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "bfc7dacb5002cb01ca70e90caabc4c43f4f97ad52340888a9fdf1591f1d91f2c"
+      "sha256": "5725637aad0bddd41e9df9d42de4e712ffec865a3233d0ddaa9b51e43d06d32a"
     },
     {
       "path": "notes/GEOMETRIC_GALOIS_BRIDGE.md",
-      "sha256": "906f9f7111e91452766dbec687232b3bba7363367c8246b8d8092679e7cd0a3b"
+      "sha256": "4ddb035a413695b78927213a41ce4c2436a852f397de29c96cd422b24cddddd2"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -63,7 +63,7 @@
     },
     {
       "path": "paper/BLOCH_BEILINSON_CONJECTURES_PREPRINT.md",
-      "sha256": "65dd938e6ffda99c4199211d04ab9d9db4a42f90cc1c4c41951e6825a76c5212"
+      "sha256": "0143b25aced3328f6d54ad03365c7db7b6de4bc0f817be249172ed39d71a2bc8"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -106,7 +106,7 @@
       "sha256": "19fd25904570031143690943879a086cdf8455a64b2709ee6804901720342089"
     }
   ],
-  "generated_utc": "2026-05-10T05:18:38Z",
+  "generated_utc": "2026-07-01T19:07:40Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"
